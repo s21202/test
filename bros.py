@@ -1,0 +1,1 @@
+print("niesamowita funkcjonalnosc")
